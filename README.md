@@ -50,10 +50,14 @@ Scikit-learn
 Pandas, NumPy, Matplotlib, Seaborn
 
 # How to Run the Project
-Step 1- Clone the repository: git clone https://github.com/yourusername/NewsClassifier-Transformers.git
+ ## Step 1- Clone the repository:
+ git clone https://github.com/yourusername/NewsClassifier-Transformers.git
 
-Step 2- Navigate to the folder: cd NewsClassifier-Transformers
+## Step 2-
+Navigate to the folder: cd NewsClassifier-Transformers
 
-Step 3- Install required libraries: pip install -r requirements.txt
+## Step 3- 
+Install required libraries: pip install -r requirements.txt
 
-Step 4- Run the notebook: "Mini Project 3.ipynb"
+## Step 4- 
+Run the notebook: "Mini Project 3.ipynb"
