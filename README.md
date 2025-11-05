@@ -20,6 +20,7 @@ The approach enables accurate, scalable, and real-time categorization of textual
 The project uses two datasets:
 
 news_articles.csv → Contains the text of news articles
+
 news_article_labels.xlsx → Contains the labels (categories) for each article
 
 Column Name	Description
