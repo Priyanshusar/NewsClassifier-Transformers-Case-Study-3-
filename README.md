@@ -24,7 +24,9 @@ news_articles.csv → Contains the text of news articles
 news_article_labels.xlsx → Contains the labels (categories) for each article
 
 Column Name	Description
+
 Text -	The main content of the article
+
 Label -	The category of the news article
 
 # Steps Involved
