@@ -17,13 +17,14 @@ This project aims to address these challenges by developing an automated news ar
 The approach enables accurate, scalable, and real-time categorization of textual news data.
 
 # Dataset
-The project uses two datasets:
+
+## The project uses two datasets:
 
 news_articles.csv → Contains the text of news articles
 
 news_article_labels.xlsx → Contains the labels (categories) for each article
 
-Column Name	Description
+## Column Name	Description
 
 Text -	The main content of the article
 
